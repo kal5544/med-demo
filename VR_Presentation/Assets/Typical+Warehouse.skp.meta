@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: b51012324a76ded4ab0678a5e0378f41
+timeCreated: 1465369071
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000
+  assetHash:
+    serializedVersion: 2
+    Hash: de20d71b8dd009c1a482007e45260541
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.26548246, y: 1.3500365, z: 14.687393}
+      lookAt: {x: 36.957626, y: 11.758664, z: 14.241248}
+      up: {x: -0.27286762, y: 0.9620459, z: 0.0033178378}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.26548246, y: 1.3500365, z: 14.687393}
+        lookAt: {x: 36.957626, y: 11.758664, z: 14.241248}
+        up: {x: -0.27286762, y: 0.9620459, z: 0.0033178378}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 2
+    100002: Group 270
+    100004: Group 272
+    100006: Group 275
+    100008: Group 277
+    100010: Group 280
+    100012: Group 282
+    100014: Group 285
+    100016: Group 287
+    100018: Group 350
+    100020: Group 352
+    100022: Group 355
+    100024: Group 357
+    100026: Group#3
+    100028: Group#3 1
+    100030: Group#3 10
+    100032: Group#3 11
+    100034: Group#3 2
+    100036: Group#3 3
+    100038: Group#3 4
+    100040: Group#3 5
+    100042: Group#3 6
+    100044: Group#3 7
+    100046: Group#3 8
+    100048: Group#3 9
+    100050: Group#5
+    100052: Group#5 1
+    100054: Group#5 2
+    100056: Group#5 3
+    100058: Group#5 4
+    100060: Group#5 5
+    100062: pillar
+    100064: pillar 1
+    100066: pillar 2
+    100068: pillar 3
+    100070: pillar 4
+    100072: pillar 5
+    100074: steel plate floor
+    100076: steel plate floor 1
+    100078: steel plate floor 10
+    100080: steel plate floor 100
+    100082: steel plate floor 101
+    100084: steel plate floor 102
+    100086: steel plate floor 103
+    100088: steel plate floor 104
+    100090: steel plate floor 105
+    100092: steel plate floor 106
+    100094: steel plate floor 107
+    100096: steel plate floor 108
+    100098: steel plate floor 109
+    100100: steel plate floor 11
+    100102: steel plate floor 110
+    100104: steel plate floor 111
+    100106: steel plate floor 112
+    100108: steel plate floor 113
+    100110: steel plate floor 114
+    100112: steel plate floor 115
+    100114: steel plate floor 116
+    100116: steel plate floor 117
+    100118: steel plate floor 12
+    100120: steel plate floor 13
+    100122: steel plate floor 14
+    100124: steel plate floor 15
+    100126: steel plate floor 16
+    100128: steel plate floor 17
+    100130: steel plate floor 18
+    100132: steel plate floor 19
+    100134: steel plate floor 2
+    100136: steel plate floor 20
+    100138: steel plate floor 21
+    100140: steel plate floor 22
+    100142: steel plate floor 23
+    100144: steel plate floor 24
+    100146: steel plate floor 25
+    100148: steel plate floor 26
+    100150: steel plate floor 27
+    100152: steel plate floor 28
+    100154: steel plate floor 29
+    100156: steel plate floor 3
+    100158: steel plate floor 30
+    100160: steel plate floor 31
+    100162: steel plate floor 32
+    100164: steel plate floor 33
+    100166: steel plate floor 34
+    100168: steel plate floor 35
+    100170: steel plate floor 36
+    100172: steel plate floor 37
+    100174: steel plate floor 38
+    100176: steel plate floor 39
+    100178: steel plate floor 4
+    100180: steel plate floor 40
+    100182: steel plate floor 41
+    100184: steel plate floor 42
+    100186: steel plate floor 43
+    100188: steel plate floor 44
+    100190: steel plate floor 45
+    100192: steel plate floor 46
+    100194: steel plate floor 47
+    100196: steel plate floor 48
+    100198: steel plate floor 49
+    100200: steel plate floor 5
+    100202: steel plate floor 50
+    100204: steel plate floor 51
+    100206: steel plate floor 52
+    100208: steel plate floor 53
+    100210: steel plate floor 54
+    100212: steel plate floor 55
+    100214: steel plate floor 56
+    100216: steel plate floor 57
+    100218: steel plate floor 58
+    100220: steel plate floor 59
+    100222: steel plate floor 6
+    100224: steel plate floor 60
+    100226: steel plate floor 61
+    100228: steel plate floor 62
+    100230: steel plate floor 63
+    100232: steel plate floor 64
+    100234: steel plate floor 65
+    100236: steel plate floor 66
+    100238: steel plate floor 67
+    100240: steel plate floor 68
+    100242: steel plate floor 69
+    100244: steel plate floor 7
+    100246: steel plate floor 70
+    100248: steel plate floor 71
+    100250: steel plate floor 72
+    100252: steel plate floor 73
+    100254: steel plate floor 74
+    100256: steel plate floor 75
+    100258: steel plate floor 76
+    100260: steel plate floor 77
+    100262: steel plate floor 78
+    100264: steel plate floor 79
+    100266: steel plate floor 8
+    100268: steel plate floor 80
+    100270: steel plate floor 81
+    100272: steel plate floor 82
+    100274: steel plate floor 83
+    100276: steel plate floor 84
+    100278: steel plate floor 85
+    100280: steel plate floor 86
+    100282: steel plate floor 87
+    100284: steel plate floor 88
+    100286: steel plate floor 89
+    100288: steel plate floor 9
+    100290: steel plate floor 90
+    100292: steel plate floor 91
+    100294: steel plate floor 92
+    100296: steel plate floor 93
+    100298: steel plate floor 94
+    100300: steel plate floor 95
+    100302: steel plate floor 96
+    100304: steel plate floor 97
+    100306: steel plate floor 98
+    100308: steel plate floor 99
+    100310: steel plate floor#1
+    100312: steel plate floor#1 1
+    100314: steel plate floor#1 10
+    100316: steel plate floor#1 11
+    100318: steel plate floor#1 12
+    100320: steel plate floor#1 13
+    100322: steel plate floor#1 14
+    100324: steel plate floor#1 2
+    100326: steel plate floor#1 3
+    100328: steel plate floor#1 4
+    100330: steel plate floor#1 5
+    100332: steel plate floor#1 6
+    100334: steel plate floor#1 7
+    100336: steel plate floor#1 8
+    100338: steel plate floor#1 9
+    100340: support
+    100342: support 1
+    100344: support 2
+    100346: support 3
+    100348: support 4
+    100350: //RootNode
+    100352: warehouse window 01
+    100354: warehouse window 01 1
+    100356: warehouse window 01 10
+    100358: warehouse window 01 11
+    100360: warehouse window 01 12
+    100362: warehouse window 01 2
+    100364: warehouse window 01 3
+    100366: warehouse window 01 4
+    100368: warehouse window 01 5
+    100370: warehouse window 01 6
+    100372: warehouse window 01 7
+    100374: warehouse window 01 8
+    100376: warehouse window 01 9
+    400000: Group 2
+    400002: Group 270
+    400004: Group 272
+    400006: Group 275
+    400008: Group 277
+    400010: Group 280
+    400012: Group 282
+    400014: Group 285
+    400016: Group 287
+    400018: Group 350
+    400020: Group 352
+    400022: Group 355
+    400024: Group 357
+    400026: Group#3
+    400028: Group#3 1
+    400030: Group#3 10
+    400032: Group#3 11
+    400034: Group#3 2
+    400036: Group#3 3
+    400038: Group#3 4
+    400040: Group#3 5
+    400042: Group#3 6
+    400044: Group#3 7
+    400046: Group#3 8
+    400048: Group#3 9
+    400050: Group#5
+    400052: Group#5 1
+    400054: Group#5 2
+    400056: Group#5 3
+    400058: Group#5 4
+    400060: Group#5 5
+    400062: pillar
+    400064: pillar 1
+    400066: pillar 2
+    400068: pillar 3
+    400070: pillar 4
+    400072: pillar 5
+    400074: steel plate floor
+    400076: steel plate floor 1
+    400078: steel plate floor 10
+    400080: steel plate floor 100
+    400082: steel plate floor 101
+    400084: steel plate floor 102
+    400086: steel plate floor 103
+    400088: steel plate floor 104
+    400090: steel plate floor 105
+    400092: steel plate floor 106
+    400094: steel plate floor 107
+    400096: steel plate floor 108
+    400098: steel plate floor 109
+    400100: steel plate floor 11
+    400102: steel plate floor 110
+    400104: steel plate floor 111
+    400106: steel plate floor 112
+    400108: steel plate floor 113
+    400110: steel plate floor 114
+    400112: steel plate floor 115
+    400114: steel plate floor 116
+    400116: steel plate floor 117
+    400118: steel plate floor 12
+    400120: steel plate floor 13
+    400122: steel plate floor 14
+    400124: steel plate floor 15
+    400126: steel plate floor 16
+    400128: steel plate floor 17
+    400130: steel plate floor 18
+    400132: steel plate floor 19
+    400134: steel plate floor 2
+    400136: steel plate floor 20
+    400138: steel plate floor 21
+    400140: steel plate floor 22
+    400142: steel plate floor 23
+    400144: steel plate floor 24
+    400146: steel plate floor 25
+    400148: steel plate floor 26
+    400150: steel plate floor 27
+    400152: steel plate floor 28
+    400154: steel plate floor 29
+    400156: steel plate floor 3
+    400158: steel plate floor 30
+    400160: steel plate floor 31
+    400162: steel plate floor 32
+    400164: steel plate floor 33
+    400166: steel plate floor 34
+    400168: steel plate floor 35
+    400170: steel plate floor 36
+    400172: steel plate floor 37
+    400174: steel plate floor 38
+    400176: steel plate floor 39
+    400178: steel plate floor 4
+    400180: steel plate floor 40
+    400182: steel plate floor 41
+    400184: steel plate floor 42
+    400186: steel plate floor 43
+    400188: steel plate floor 44
+    400190: steel plate floor 45
+    400192: steel plate floor 46
+    400194: steel plate floor 47
+    400196: steel plate floor 48
+    400198: steel plate floor 49
+    400200: steel plate floor 5
+    400202: steel plate floor 50
+    400204: steel plate floor 51
+    400206: steel plate floor 52
+    400208: steel plate floor 53
+    400210: steel plate floor 54
+    400212: steel plate floor 55
+    400214: steel plate floor 56
+    400216: steel plate floor 57
+    400218: steel plate floor 58
+    400220: steel plate floor 59
+    400222: steel plate floor 6
+    400224: steel plate floor 60
+    400226: steel plate floor 61
+    400228: steel plate floor 62
+    400230: steel plate floor 63
+    400232: steel plate floor 64
+    400234: steel plate floor 65
+    400236: steel plate floor 66
+    400238: steel plate floor 67
+    400240: steel plate floor 68
+    400242: steel plate floor 69
+    400244: steel plate floor 7
+    400246: steel plate floor 70
+    400248: steel plate floor 71
+    400250: steel plate floor 72
+    400252: steel plate floor 73
+    400254: steel plate floor 74
+    400256: steel plate floor 75
+    400258: steel plate floor 76
+    400260: steel plate floor 77
+    400262: steel plate floor 78
+    400264: steel plate floor 79
+    400266: steel plate floor 8
+    400268: steel plate floor 80
+    400270: steel plate floor 81
+    400272: steel plate floor 82
+    400274: steel plate floor 83
+    400276: steel plate floor 84
+    400278: steel plate floor 85
+    400280: steel plate floor 86
+    400282: steel plate floor 87
+    400284: steel plate floor 88
+    400286: steel plate floor 89
+    400288: steel plate floor 9
+    400290: steel plate floor 90
+    400292: steel plate floor 91
+    400294: steel plate floor 92
+    400296: steel plate floor 93
+    400298: steel plate floor 94
+    400300: steel plate floor 95
+    400302: steel plate floor 96
+    400304: steel plate floor 97
+    400306: steel plate floor 98
+    400308: steel plate floor 99
+    400310: steel plate floor#1
+    400312: steel plate floor#1 1
+    400314: steel plate floor#1 10
+    400316: steel plate floor#1 11
+    400318: steel plate floor#1 12
+    400320: steel plate floor#1 13
+    400322: steel plate floor#1 14
+    400324: steel plate floor#1 2
+    400326: steel plate floor#1 3
+    400328: steel plate floor#1 4
+    400330: steel plate floor#1 5
+    400332: steel plate floor#1 6
+    400334: steel plate floor#1 7
+    400336: steel plate floor#1 8
+    400338: steel plate floor#1 9
+    400340: support
+    400342: support 1
+    400344: support 2
+    400346: support 3
+    400348: support 4
+    400350: //RootNode
+    400352: warehouse window 01
+    400354: warehouse window 01 1
+    400356: warehouse window 01 10
+    400358: warehouse window 01 11
+    400360: warehouse window 01 12
+    400362: warehouse window 01 2
+    400364: warehouse window 01 3
+    400366: warehouse window 01 4
+    400368: warehouse window 01 5
+    400370: warehouse window 01 6
+    400372: warehouse window 01 7
+    400374: warehouse window 01 8
+    400376: warehouse window 01 9
+    2300000: Group 270
+    2300002: Group 272
+    2300004: Group 275
+    2300006: Group 277
+    2300008: Group 280
+    2300010: Group 282
+    2300012: Group 285
+    2300014: Group 287
+    2300016: Group 350
+    2300018: Group 352
+    2300020: Group 355
+    2300022: Group 357
+    2300024: Group#3
+    2300026: Group#3 1
+    2300028: Group#3 10
+    2300030: Group#3 11
+    2300032: Group#3 2
+    2300034: Group#3 3
+    2300036: Group#3 4
+    2300038: Group#3 5
+    2300040: Group#3 6
+    2300042: Group#3 7
+    2300044: Group#3 8
+    2300046: Group#3 9
+    2300048: pillar
+    2300050: pillar 1
+    2300052: pillar 2
+    2300054: pillar 3
+    2300056: pillar 4
+    2300058: pillar 5
+    2300060: steel plate floor
+    2300062: steel plate floor 1
+    2300064: steel plate floor 10
+    2300066: steel plate floor 100
+    2300068: steel plate floor 101
+    2300070: steel plate floor 102
+    2300072: steel plate floor 103
+    2300074: steel plate floor 104
+    2300076: steel plate floor 105
+    2300078: steel plate floor 106
+    2300080: steel plate floor 107
+    2300082: steel plate floor 108
+    2300084: steel plate floor 109
+    2300086: steel plate floor 11
+    2300088: steel plate floor 110
+    2300090: steel plate floor 111
+    2300092: steel plate floor 112
+    2300094: steel plate floor 113
+    2300096: steel plate floor 114
+    2300098: steel plate floor 115
+    2300100: steel plate floor 116
+    2300102: steel plate floor 117
+    2300104: steel plate floor 12
+    2300106: steel plate floor 13
+    2300108: steel plate floor 14
+    2300110: steel plate floor 15
+    2300112: steel plate floor 16
+    2300114: steel plate floor 17
+    2300116: steel plate floor 18
+    2300118: steel plate floor 19
+    2300120: steel plate floor 2
+    2300122: steel plate floor 20
+    2300124: steel plate floor 21
+    2300126: steel plate floor 22
+    2300128: steel plate floor 23
+    2300130: steel plate floor 24
+    2300132: steel plate floor 25
+    2300134: steel plate floor 26
+    2300136: steel plate floor 27
+    2300138: steel plate floor 28
+    2300140: steel plate floor 29
+    2300142: steel plate floor 3
+    2300144: steel plate floor 30
+    2300146: steel plate floor 31
+    2300148: steel plate floor 32
+    2300150: steel plate floor 33
+    2300152: steel plate floor 34
+    2300154: steel plate floor 35
+    2300156: steel plate floor 36
+    2300158: steel plate floor 37
+    2300160: steel plate floor 38
+    2300162: steel plate floor 39
+    2300164: steel plate floor 4
+    2300166: steel plate floor 40
+    2300168: steel plate floor 41
+    2300170: steel plate floor 42
+    2300172: steel plate floor 43
+    2300174: steel plate floor 44
+    2300176: steel plate floor 45
+    2300178: steel plate floor 46
+    2300180: steel plate floor 47
+    2300182: steel plate floor 48
+    2300184: steel plate floor 49
+    2300186: steel plate floor 5
+    2300188: steel plate floor 50
+    2300190: steel plate floor 51
+    2300192: steel plate floor 52
+    2300194: steel plate floor 53
+    2300196: steel plate floor 54
+    2300198: steel plate floor 55
+    2300200: steel plate floor 56
+    2300202: steel plate floor 57
+    2300204: steel plate floor 58
+    2300206: steel plate floor 59
+    2300208: steel plate floor 6
+    2300210: steel plate floor 60
+    2300212: steel plate floor 61
+    2300214: steel plate floor 62
+    2300216: steel plate floor 63
+    2300218: steel plate floor 64
+    2300220: steel plate floor 65
+    2300222: steel plate floor 66
+    2300224: steel plate floor 67
+    2300226: steel plate floor 68
+    2300228: steel plate floor 69
+    2300230: steel plate floor 7
+    2300232: steel plate floor 70
+    2300234: steel plate floor 71
+    2300236: steel plate floor 72
+    2300238: steel plate floor 73
+    2300240: steel plate floor 74
+    2300242: steel plate floor 75
+    2300244: steel plate floor 76
+    2300246: steel plate floor 77
+    2300248: steel plate floor 78
+    2300250: steel plate floor 79
+    2300252: steel plate floor 8
+    2300254: steel plate floor 80
+    2300256: steel plate floor 81
+    2300258: steel plate floor 82
+    2300260: steel plate floor 83
+    2300262: steel plate floor 84
+    2300264: steel plate floor 85
+    2300266: steel plate floor 86
+    2300268: steel plate floor 87
+    2300270: steel plate floor 88
+    2300272: steel plate floor 89
+    2300274: steel plate floor 9
+    2300276: steel plate floor 90
+    2300278: steel plate floor 91
+    2300280: steel plate floor 92
+    2300282: steel plate floor 93
+    2300284: steel plate floor 94
+    2300286: steel plate floor 95
+    2300288: steel plate floor 96
+    2300290: steel plate floor 97
+    2300292: steel plate floor 98
+    2300294: steel plate floor 99
+    2300296: steel plate floor#1
+    2300298: steel plate floor#1 1
+    2300300: steel plate floor#1 10
+    2300302: steel plate floor#1 11
+    2300304: steel plate floor#1 12
+    2300306: steel plate floor#1 13
+    2300308: steel plate floor#1 14
+    2300310: steel plate floor#1 2
+    2300312: steel plate floor#1 3
+    2300314: steel plate floor#1 4
+    2300316: steel plate floor#1 5
+    2300318: steel plate floor#1 6
+    2300320: steel plate floor#1 7
+    2300322: steel plate floor#1 8
+    2300324: steel plate floor#1 9
+    2300326: support
+    2300328: support 1
+    2300330: support 2
+    2300332: support 3
+    2300334: support 4
+    2300336: //RootNode
+    2300338: warehouse window 01
+    2300340: warehouse window 01 1
+    2300342: warehouse window 01 10
+    2300344: warehouse window 01 11
+    2300346: warehouse window 01 12
+    2300348: warehouse window 01 2
+    2300350: warehouse window 01 3
+    2300352: warehouse window 01 4
+    2300354: warehouse window 01 5
+    2300356: warehouse window 01 6
+    2300358: warehouse window 01 7
+    2300360: warehouse window 01 8
+    2300362: warehouse window 01 9
+    3300000: Group 270
+    3300002: Group 272
+    3300004: Group 275
+    3300006: Group 277
+    3300008: Group 280
+    3300010: Group 282
+    3300012: Group 285
+    3300014: Group 287
+    3300016: Group 350
+    3300018: Group 352
+    3300020: Group 355
+    3300022: Group 357
+    3300024: Group#3
+    3300026: Group#3 1
+    3300028: Group#3 10
+    3300030: Group#3 11
+    3300032: Group#3 2
+    3300034: Group#3 3
+    3300036: Group#3 4
+    3300038: Group#3 5
+    3300040: Group#3 6
+    3300042: Group#3 7
+    3300044: Group#3 8
+    3300046: Group#3 9
+    3300048: pillar
+    3300050: pillar 1
+    3300052: pillar 2
+    3300054: pillar 3
+    3300056: pillar 4
+    3300058: pillar 5
+    3300060: steel plate floor
+    3300062: steel plate floor 1
+    3300064: steel plate floor 10
+    3300066: steel plate floor 100
+    3300068: steel plate floor 101
+    3300070: steel plate floor 102
+    3300072: steel plate floor 103
+    3300074: steel plate floor 104
+    3300076: steel plate floor 105
+    3300078: steel plate floor 106
+    3300080: steel plate floor 107
+    3300082: steel plate floor 108
+    3300084: steel plate floor 109
+    3300086: steel plate floor 11
+    3300088: steel plate floor 110
+    3300090: steel plate floor 111
+    3300092: steel plate floor 112
+    3300094: steel plate floor 113
+    3300096: steel plate floor 114
+    3300098: steel plate floor 115
+    3300100: steel plate floor 116
+    3300102: steel plate floor 117
+    3300104: steel plate floor 12
+    3300106: steel plate floor 13
+    3300108: steel plate floor 14
+    3300110: steel plate floor 15
+    3300112: steel plate floor 16
+    3300114: steel plate floor 17
+    3300116: steel plate floor 18
+    3300118: steel plate floor 19
+    3300120: steel plate floor 2
+    3300122: steel plate floor 20
+    3300124: steel plate floor 21
+    3300126: steel plate floor 22
+    3300128: steel plate floor 23
+    3300130: steel plate floor 24
+    3300132: steel plate floor 25
+    3300134: steel plate floor 26
+    3300136: steel plate floor 27
+    3300138: steel plate floor 28
+    3300140: steel plate floor 29
+    3300142: steel plate floor 3
+    3300144: steel plate floor 30
+    3300146: steel plate floor 31
+    3300148: steel plate floor 32
+    3300150: steel plate floor 33
+    3300152: steel plate floor 34
+    3300154: steel plate floor 35
+    3300156: steel plate floor 36
+    3300158: steel plate floor 37
+    3300160: steel plate floor 38
+    3300162: steel plate floor 39
+    3300164: steel plate floor 4
+    3300166: steel plate floor 40
+    3300168: steel plate floor 41
+    3300170: steel plate floor 42
+    3300172: steel plate floor 43
+    3300174: steel plate floor 44
+    3300176: steel plate floor 45
+    3300178: steel plate floor 46
+    3300180: steel plate floor 47
+    3300182: steel plate floor 48
+    3300184: steel plate floor 49
+    3300186: steel plate floor 5
+    3300188: steel plate floor 50
+    3300190: steel plate floor 51
+    3300192: steel plate floor 52
+    3300194: steel plate floor 53
+    3300196: steel plate floor 54
+    3300198: steel plate floor 55
+    3300200: steel plate floor 56
+    3300202: steel plate floor 57
+    3300204: steel plate floor 58
+    3300206: steel plate floor 59
+    3300208: steel plate floor 6
+    3300210: steel plate floor 60
+    3300212: steel plate floor 61
+    3300214: steel plate floor 62
+    3300216: steel plate floor 63
+    3300218: steel plate floor 64
+    3300220: steel plate floor 65
+    3300222: steel plate floor 66
+    3300224: steel plate floor 67
+    3300226: steel plate floor 68
+    3300228: steel plate floor 69
+    3300230: steel plate floor 7
+    3300232: steel plate floor 70
+    3300234: steel plate floor 71
+    3300236: steel plate floor 72
+    3300238: steel plate floor 73
+    3300240: steel plate floor 74
+    3300242: steel plate floor 75
+    3300244: steel plate floor 76
+    3300246: steel plate floor 77
+    3300248: steel plate floor 78
+    3300250: steel plate floor 79
+    3300252: steel plate floor 8
+    3300254: steel plate floor 80
+    3300256: steel plate floor 81
+    3300258: steel plate floor 82
+    3300260: steel plate floor 83
+    3300262: steel plate floor 84
+    3300264: steel plate floor 85
+    3300266: steel plate floor 86
+    3300268: steel plate floor 87
+    3300270: steel plate floor 88
+    3300272: steel plate floor 89
+    3300274: steel plate floor 9
+    3300276: steel plate floor 90
+    3300278: steel plate floor 91
+    3300280: steel plate floor 92
+    3300282: steel plate floor 93
+    3300284: steel plate floor 94
+    3300286: steel plate floor 95
+    3300288: steel plate floor 96
+    3300290: steel plate floor 97
+    3300292: steel plate floor 98
+    3300294: steel plate floor 99
+    3300296: steel plate floor#1
+    3300298: steel plate floor#1 1
+    3300300: steel plate floor#1 10
+    3300302: steel plate floor#1 11
+    3300304: steel plate floor#1 12
+    3300306: steel plate floor#1 13
+    3300308: steel plate floor#1 14
+    3300310: steel plate floor#1 2
+    3300312: steel plate floor#1 3
+    3300314: steel plate floor#1 4
+    3300316: steel plate floor#1 5
+    3300318: steel plate floor#1 6
+    3300320: steel plate floor#1 7
+    3300322: steel plate floor#1 8
+    3300324: steel plate floor#1 9
+    3300326: support
+    3300328: support 1
+    3300330: support 2
+    3300332: support 3
+    3300334: support 4
+    3300336: //RootNode
+    3300338: warehouse window 01
+    3300340: warehouse window 01 1
+    3300342: warehouse window 01 10
+    3300344: warehouse window 01 11
+    3300346: warehouse window 01 12
+    3300348: warehouse window 01 2
+    3300350: warehouse window 01 3
+    3300352: warehouse window 01 4
+    3300354: warehouse window 01 5
+    3300356: warehouse window 01 6
+    3300358: warehouse window 01 7
+    3300360: warehouse window 01 8
+    3300362: warehouse window 01 9
+    4300000: Mesh Typical+Warehouse
+    4300002: Mesh steel plate floor
+    4300004: Mesh steel plate floor#1
+    4300006: Mesh Group 270
+    4300008: Mesh warehouse window 01
+    4300010: Mesh support
+    4300012: Mesh Group#3
+    4300014: Mesh warehouse window 01
+    4300016: Mesh warehouse window 01
+    4300018: Mesh pillar
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

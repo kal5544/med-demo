@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 93a7d42f39c75da4c94534d9987e8d91
+timeCreated: 1465368306
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 33627460221954c42ec092351be7f15d
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.8489057, y: 1.9527413, z: -3.450377}
+      lookAt: {x: -0.4015928, y: 1.0132799, z: 0.2569951}
+      up: {x: -0.10985668, y: 0.97733325, z: 0.18097305}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: .li3dsubmesh
+    100002: .li3dsubmesh 1
+    100004: .li3dsubmesh 2
+    100006: .li3dsubmesh 3
+    100008: .li3dsubmesh 4
+    100010: .li3dsubmesh 5
+    100012: .li3dsubmesh 6
+    100014: .li3dsubmesh 7
+    100016: Blade Guide
+    100018: Blade Guide 1
+    100020: Cap End R
+    100022: Cap End R /8
+    100024: Cap End R /8 1
+    100026: Cap End R /8 2
+    100028: Cap End R /8 3
+    100030: Cap End R /8 4
+    100032: Cap End R /8 5
+    100034: Cap End R /8 6
+    100036: Cap End R /8 7
+    100038: Center
+    100040: Cylinder
+    100042: Furniture_3tpYt2AAhUJQSrA8hFrqGe
+    100044: Furniture_3tpYt2AAhUJQSrA8hFrqGe 1
+    100046: Grease Fitting 1 4in
+    100048: Grease Fitting Mount
+    100050: Grease Fitting Mount 1
+    100052: Grease Ports
+    100054: Group 11
+    100056: Group 124
+    100058: Group 126
+    100060: Group 128
+    100062: Group 129
+    100064: Group 13
+    100066: Group 130
+    100068: Group 131
+    100070: Group 133
+    100072: Group 135
+    100074: Group 136
+    100076: Group 138
+    100078: Group 140
+    100080: Group 141
+    100082: Group 144
+    100084: Group 172
+    100086: Group 19
+    100088: Group 20
+    100090: Group 22
+    100092: Group 24
+    100094: Group 26
+    100096: Group 27
+    100098: Group 29
+    100100: Group 30
+    100102: Group 32
+    100104: Group 34
+    100106: Group 35
+    100108: Group 37
+    100110: Group 39
+    100112: Group 41
+    100114: Group 43
+    100116: Group 44
+    100118: Group 46
+    100120: Group 48
+    100122: Group 50
+    100124: Group 51
+    100126: Group 53
+    100128: Group 55
+    100130: Group 57
+    100132: Group 59
+    100134: Group 61
+    100136: Group 63
+    100138: Group 65
+    100140: Group 67
+    100142: Group 69
+    100144: Group 71
+    100146: Group 73
+    100148: Group 74
+    100150: Group 76
+    100152: Group 78
+    100154: Group 8
+    100156: Group 80
+    100158: Group 82
+    100160: Group 85
+    100162: Group 86
+    100164: Group 88
+    100166: Group 9
+    100168: Group 90
+    100170: Group 92
+    100172: Group 93
+    100174: Group 95
+    100176: Group 96
+    100178: Group#28
+    100180: Group#28 1
+    100182: Group#33
+    100184: Group#33 1
+    100186: Image 84
+    100188: Start Button
+    100190: Switch  Base
+    100192: //RootNode
+    400000: .li3dsubmesh
+    400002: .li3dsubmesh 1
+    400004: .li3dsubmesh 2
+    400006: .li3dsubmesh 3
+    400008: .li3dsubmesh 4
+    400010: .li3dsubmesh 5
+    400012: .li3dsubmesh 6
+    400014: .li3dsubmesh 7
+    400016: Blade Guide
+    400018: Blade Guide 1
+    400020: Cap End R
+    400022: Cap End R /8
+    400024: Cap End R /8 1
+    400026: Cap End R /8 2
+    400028: Cap End R /8 3
+    400030: Cap End R /8 4
+    400032: Cap End R /8 5
+    400034: Cap End R /8 6
+    400036: Cap End R /8 7
+    400038: Center
+    400040: Cylinder
+    400042: Furniture_3tpYt2AAhUJQSrA8hFrqGe
+    400044: Furniture_3tpYt2AAhUJQSrA8hFrqGe 1
+    400046: Grease Fitting 1 4in
+    400048: Grease Fitting Mount
+    400050: Grease Fitting Mount 1
+    400052: Grease Ports
+    400054: Group 11
+    400056: Group 124
+    400058: Group 126
+    400060: Group 128
+    400062: Group 129
+    400064: Group 13
+    400066: Group 130
+    400068: Group 131
+    400070: Group 133
+    400072: Group 135
+    400074: Group 136
+    400076: Group 138
+    400078: Group 140
+    400080: Group 141
+    400082: Group 144
+    400084: Group 172
+    400086: Group 19
+    400088: Group 20
+    400090: Group 22
+    400092: Group 24
+    400094: Group 26
+    400096: Group 27
+    400098: Group 29
+    400100: Group 30
+    400102: Group 32
+    400104: Group 34
+    400106: Group 35
+    400108: Group 37
+    400110: Group 39
+    400112: Group 41
+    400114: Group 43
+    400116: Group 44
+    400118: Group 46
+    400120: Group 48
+    400122: Group 50
+    400124: Group 51
+    400126: Group 53
+    400128: Group 55
+    400130: Group 57
+    400132: Group 59
+    400134: Group 61
+    400136: Group 63
+    400138: Group 65
+    400140: Group 67
+    400142: Group 69
+    400144: Group 71
+    400146: Group 73
+    400148: Group 74
+    400150: Group 76
+    400152: Group 78
+    400154: Group 8
+    400156: Group 80
+    400158: Group 82
+    400160: Group 85
+    400162: Group 86
+    400164: Group 88
+    400166: Group 9
+    400168: Group 90
+    400170: Group 92
+    400172: Group 93
+    400174: Group 95
+    400176: Group 96
+    400178: Group#28
+    400180: Group#28 1
+    400182: Group#33
+    400184: Group#33 1
+    400186: Image 84
+    400188: Start Button
+    400190: Switch  Base
+    400192: //RootNode
+    2300000: .li3dsubmesh
+    2300002: .li3dsubmesh 1
+    2300004: .li3dsubmesh 2
+    2300006: .li3dsubmesh 3
+    2300008: .li3dsubmesh 4
+    2300010: .li3dsubmesh 5
+    2300012: .li3dsubmesh 6
+    2300014: .li3dsubmesh 7
+    2300016: Cap End R /8
+    2300018: Cap End R /8 1
+    2300020: Cap End R /8 2
+    2300022: Cap End R /8 3
+    2300024: Cap End R /8 4
+    2300026: Cap End R /8 5
+    2300028: Cap End R /8 6
+    2300030: Cap End R /8 7
+    2300032: Center
+    2300034: Grease Fitting 1 4in
+    2300036: Grease Fitting Mount
+    2300038: Grease Fitting Mount 1
+    2300040: Group 11
+    2300042: Group 124
+    2300044: Group 126
+    2300046: Group 13
+    2300048: Group 131
+    2300050: Group 133
+    2300052: Group 136
+    2300054: Group 138
+    2300056: Group 141
+    2300058: Group 144
+    2300060: Group 172
+    2300062: Group 20
+    2300064: Group 22
+    2300066: Group 24
+    2300068: Group 27
+    2300070: Group 30
+    2300072: Group 32
+    2300074: Group 35
+    2300076: Group 37
+    2300078: Group 39
+    2300080: Group 41
+    2300082: Group 44
+    2300084: Group 46
+    2300086: Group 48
+    2300088: Group 51
+    2300090: Group 53
+    2300092: Group 55
+    2300094: Group 57
+    2300096: Group 59
+    2300098: Group 61
+    2300100: Group 63
+    2300102: Group 65
+    2300104: Group 67
+    2300106: Group 69
+    2300108: Group 71
+    2300110: Group 74
+    2300112: Group 76
+    2300114: Group 78
+    2300116: Group 80
+    2300118: Group 82
+    2300120: Group 86
+    2300122: Group 88
+    2300124: Group 9
+    2300126: Group 90
+    2300128: Group 93
+    2300130: Group 96
+    2300132: Group#28
+    2300134: Group#28 1
+    2300136: Image 84
+    2300138: Start Button
+    2300140: Switch  Base
+    3300000: .li3dsubmesh
+    3300002: .li3dsubmesh 1
+    3300004: .li3dsubmesh 2
+    3300006: .li3dsubmesh 3
+    3300008: .li3dsubmesh 4
+    3300010: .li3dsubmesh 5
+    3300012: .li3dsubmesh 6
+    3300014: .li3dsubmesh 7
+    3300016: Cap End R /8
+    3300018: Cap End R /8 1
+    3300020: Cap End R /8 2
+    3300022: Cap End R /8 3
+    3300024: Cap End R /8 4
+    3300026: Cap End R /8 5
+    3300028: Cap End R /8 6
+    3300030: Cap End R /8 7
+    3300032: Center
+    3300034: Grease Fitting 1 4in
+    3300036: Grease Fitting Mount
+    3300038: Grease Fitting Mount 1
+    3300040: Group 11
+    3300042: Group 124
+    3300044: Group 126
+    3300046: Group 13
+    3300048: Group 131
+    3300050: Group 133
+    3300052: Group 136
+    3300054: Group 138
+    3300056: Group 141
+    3300058: Group 144
+    3300060: Group 172
+    3300062: Group 20
+    3300064: Group 22
+    3300066: Group 24
+    3300068: Group 27
+    3300070: Group 30
+    3300072: Group 32
+    3300074: Group 35
+    3300076: Group 37
+    3300078: Group 39
+    3300080: Group 41
+    3300082: Group 44
+    3300084: Group 46
+    3300086: Group 48
+    3300088: Group 51
+    3300090: Group 53
+    3300092: Group 55
+    3300094: Group 57
+    3300096: Group 59
+    3300098: Group 61
+    3300100: Group 63
+    3300102: Group 65
+    3300104: Group 67
+    3300106: Group 69
+    3300108: Group 71
+    3300110: Group 74
+    3300112: Group 76
+    3300114: Group 78
+    3300116: Group 80
+    3300118: Group 82
+    3300120: Group 86
+    3300122: Group 88
+    3300124: Group 9
+    3300126: Group 90
+    3300128: Group 93
+    3300130: Group 96
+    3300132: Group#28
+    3300134: Group#28 1
+    3300136: Image 84
+    3300138: Start Button
+    3300140: Switch  Base
+    4300000: Mesh Group 9
+    4300002: Mesh Group 11
+    4300004: Mesh Group 13
+    4300006: Mesh Switch  Base
+    4300008: Mesh Start Button
+    4300010: Mesh Group 20
+    4300012: Mesh Group 22
+    4300014: Mesh Group 24
+    4300016: Mesh Group 27
+    4300018: Mesh Group 30
+    4300020: Mesh Group 32
+    4300022: Mesh Group 35
+    4300024: Mesh Group 48
+    4300026: Mesh Group 51
+    4300028: Mesh Group 53
+    4300030: Mesh Group 55
+    4300032: Mesh Group 57
+    4300034: Mesh Group 67
+    4300036: Mesh Group 69
+    4300038: Mesh Group 71
+    4300040: Mesh Group 74
+    4300042: Mesh Group 82
+    4300044: Mesh Group 82
+    4300046: Mesh Group 90
+    4300048: Mesh Group 93
+    4300050: Mesh Group 96
+    4300052: Mesh .li3dsubmesh
+    4300054: Mesh .li3dsubmesh
+    4300056: Mesh .li3dsubmesh
+    4300058: Mesh .li3dsubmesh
+    4300060: Mesh Group#28
+    4300062: Mesh Group 131
+    4300064: Mesh Group 133
+    4300066: Mesh Group 136
+    4300068: Mesh Group 141
+    4300070: Mesh Group 144
+    4300072: Mesh Center
+    4300074: Mesh Cap End R /8
+    4300076: Mesh Grease Fitting 1 4in
+    4300078: Mesh Grease Fitting Mount
+    4300080: Mesh Group 172
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
