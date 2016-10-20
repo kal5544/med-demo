@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Engineering.unity
+- path: Assets/ViveDemo.unity
   isLoaded: 1
   isActive: 1

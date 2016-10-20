@@ -1,7 +1,5 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using Leap;
-using Leap.Unity;
 using System.Collections;
 
 public class DemoManager : MonoBehaviour {
@@ -34,11 +32,9 @@ public class DemoManager : MonoBehaviour {
     public bool doneSensor4 = false;
     public bool doneInjection = false;
 
-    public PinchDetector LPinchDetector = null;
-    public PinchDetector RPinchDetector = null;
-
 	// Use this for initialization
 	void Start () {
+        /*
         transducer.GetComponent<Leap.Unity.LeapRTS>().enabled = true;
         ecg0.GetComponent<Leap.Unity.LeapRTS>().enabled = false;
         ecg1.GetComponent<Leap.Unity.LeapRTS>().enabled = false;
@@ -46,6 +42,7 @@ public class DemoManager : MonoBehaviour {
         ecg3.GetComponent<Leap.Unity.LeapRTS>().enabled = false;
         ecg4.GetComponent<Leap.Unity.LeapRTS>().enabled = false;
         syringe.GetComponent<Leap.Unity.LeapRTS>().enabled = false;
+        */
 
         ecg0Collision.SetActive(false);
         ecg1Collision.SetActive(false);
@@ -65,7 +62,7 @@ public class DemoManager : MonoBehaviour {
         {
             instructionText.text = "Return Transducer to tray.";
         }
-
+        /*
         if (returnedTransducer && ultraSoundCollision.activeSelf && !LPinchDetector.IsPinching && !RPinchDetector.IsPinching)
         {
             ultraSoundCollision.SetActive(false);
@@ -74,7 +71,7 @@ public class DemoManager : MonoBehaviour {
             ecg0.GetComponent<Leap.Unity.LeapRTS>().enabled = true;
             ecg0Collision.SetActive(true);
         }
-
+        
         if(doneSensor0 && ecg0.GetComponent<Leap.Unity.LeapRTS>().enabled && !LPinchDetector.IsPinching && !RPinchDetector.IsPinching)
         {
             instructionText.text = "Four sensors left.";
@@ -115,6 +112,7 @@ public class DemoManager : MonoBehaviour {
             syringe.GetComponent<Leap.Unity.LeapRTS>().enabled = true;
             syringeCollision.SetActive(true);
         }
+        */
         if (doneInjection)
         {
             instructionText.text = "Procedure complete.";
